@@ -3,4 +3,4 @@ temp
 .tmp
 dist
 .sass-cache
-.DS_
+.DS_*
